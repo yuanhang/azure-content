@@ -285,7 +285,7 @@ To learn how to use the Azure SDK for Ruby to access Azure services from your Ru
 
 [tables]: /en-us/develop/ruby/how-to-guides/table-service/
 
-[unicorn-nginx-capistrano]: /en-us/documentation/articles/virtual-machines-ruby-deploy-capistrano-host-nginx-unicorn/
+[unicorn-nginx-capistrano]: /articles/virtual-machines-ruby-deploy-capistrano-host-nginx-unicorn.md
 
 [vm-instructions]: /en-us/documentation/articles/virtual-machines-linux-tutorial
 
